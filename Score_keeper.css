@@ -1,0 +1,16 @@
+img + h6{
+    border : 2px solid #E8E8E8;
+    box-shadow: 0 0 0.3em 0.1em #E8E8E8;
+}
+
+#bottom{
+    border: 2px solid #E8E8E8;
+    border-top: 0px;
+    border-radius: 0 0 10px 10px;
+}
+
+
+select{
+    padding: 0 1em 0 0;
+    border-radius: 30px;
+}
