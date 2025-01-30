@@ -9,6 +9,9 @@ img + h6{
     border-radius: 0 0 10px 10px;
 }
 
+span{
+    transition : 400ms color;
+}
 
 select{
     padding: 0 1em 0 0;
